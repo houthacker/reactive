@@ -1,0 +1,19 @@
+{
+  "name": "reactive",
+  "version": "0.0.1-alpha",
+  "description": "Pet project for a reactive backend in nodejs",
+  "main": "reactive.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/houthacker/reactive.git"
+  },
+  "author": "houthacker <houthacker@houthacker.io>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/houthacker/reactive/issues"
+  },
+  "homepage": "https://github.com/houthacker/reactive#readme"
+}
