@@ -2,7 +2,7 @@
   "name": "reactive",
   "version": "0.0.1-alpha",
   "description": "Lightweight implementation of an MVVM framework, inspired by VueJS",
-  "main": "reactive.js",
+  "main": "src/core/reactive.js",
   "scripts": {
     "compile": "babel src -d dist --presets es2015",
     "test": "mocha --compilers js:babel-core/register"
